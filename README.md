@@ -1,4 +1,4 @@
-# Webscrapping with rvest
+# Webscrapping with R: rvest
 
 I was sifting through National Assessment and Accreditation Council (NAAC) [report](http://naac.du.ac.in/) for Delhi University. The report volumes are available as embedded image files, e.g. [Volume 1](http://naac.du.ac.in/naacvol1.htm).
 
